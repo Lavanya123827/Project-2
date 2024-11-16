@@ -1,0 +1,216 @@
+.home-page-container {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.home-page-main-heading {
+    color: #183b56;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.bg-container {
+    background-color: #1b1b1b;
+    margin: 10px;
+}
+
+.home-page-heading {
+    color: #ffffff;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: "BreeSerif";
+}
+
+.card {
+    background-color: #e6f6ff;
+    margin: 20px;
+}
+
+.home-page-image1 {
+    height: 280px;
+    width: 200px;
+}
+
+.card-main-heading {
+    color: #183b56;
+    font-size: 20px;
+    padding: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.card-paragraph {
+    font-size: 15px;
+    padding-left: 20px;
+    color: #06070d;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.card-sub-paragraph {
+    padding: 20px;
+    color: #183b56;
+    font-family: "Roboto";
+}
+
+.btn {
+    width: 100px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.books-title {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.home-page-image2 {
+    padding-left: 20px;
+    height: 140px;
+    width: 120px;
+}
+
+.title-of-book1 {
+    font-size: 20px;
+    padding-left: 15px;
+    font-family: "Roboto";
+}
+
+.para-of-book1 {
+    font-size: 15px;
+    padding-left: 15px;
+    font-family: "Roboto";
+}
+
+.title-of-book2 {
+    font-size: 20px;
+    padding-left: 15px;
+    font-family: "Roboto";
+}
+
+.para-of-book2 {
+    font-size: 15px;
+    padding-left: 15px;
+    font-family: "Roboto";
+}
+
+.home-page-image3 {
+    padding-left: 20px;
+    height: 140px;
+    width: 120px;
+}
+
+.details-page1-container {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.details-page1-main-heading {
+    color: #183b56;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.details-page1-container {
+    color: #ffffff;
+}
+
+.details-page1-image {
+    height: 250px;
+    width: 150px;
+    padding-top: 20px;
+}
+
+.details-page1-paragraph {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.details-page1-heading {
+    font-size: 30px;
+    padding-top: 20px;
+
+}
+
+.button {
+    background-color: #FDD835;
+    border-radius: 5px;
+    height: 40px;
+    width: 70px;
+}
+
+.details-page2-container {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.details-page2-main-heading {
+    color: #183b56;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.details-page2-container {
+    color: #ffffff;
+}
+
+.details-page2-image {
+    height: 250px;
+    width: 150px;
+    padding-top: 20px;
+}
+
+.details-page2-paragraph {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.details-page2-heading {
+    font-size: 30px;
+    padding-top: 20px;
+
+}
+
+.details-page3-container {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.details-page3-main-heading {
+    color: #183b56;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.details-page3-container {
+    color: #ffffff;
+}
+
+.details-page3-image {
+    height: 300px;
+    width: 250px;
+    padding-top: 20px;
+}
+
+.details-page3-paragraph {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.details-page3-heading {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.h-center {
+    text-align: center;
+}
